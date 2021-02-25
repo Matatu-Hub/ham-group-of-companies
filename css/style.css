@@ -1149,7 +1149,7 @@ body.woocommerce-page.sidebar_show .content { width: 830px; }
 
 /* Top panel */
 .top_panel_wrap {
-  position: relative;
+  position: relative;z
 }
 
 .top_panel_fixed .top_panel_wrap {
