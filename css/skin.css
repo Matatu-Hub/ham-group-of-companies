@@ -3225,7 +3225,13 @@ button{
 .sc_countdown.sc_countdown_style_1 .sc_countdown_label{
   color:var(--secondary-color);
 }
+.center-div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
 
+}
 /* Countdown Style 2 */
 .sc_countdown.sc_countdown_style_2 .sc_countdown_separator{
   color:rgba(131,205,200,0.8);
