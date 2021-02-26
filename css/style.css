@@ -101,6 +101,7 @@ html {
 
 /* 2. Default tag's settings
 -------------------------------------------------------------- */
+
 body { 	text-rendering: optimizeLegibility; }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, nav, section {	display: block; }
@@ -6339,7 +6340,7 @@ footer.twitter_wrap .sc_section_overlay {
 	line-height:20px;
 	font-weight:600;
 	font-family:Roboto,sans-serif;
-	color:#83cdc8;
+	color:var(--secondary-dark);
 	text-decoration:none;
 	background-color:transparent;
 	border-width:0px;
@@ -6358,7 +6359,7 @@ footer.twitter_wrap .sc_section_overlay {
 	color:rgb(255,255,255);
 	text-decoration:none;
 	padding:0px;
-	background-color:rgb(131,205,200);
+	background-color:var(--secondary-dark);
 	border-radius:25px 25px 25px 25px;
 	border-width:0px;
 	border-color:rgb(34,34,34);
