@@ -64,7 +64,8 @@ dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,input,textarea,button,
 table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, address, section, video, audio {
-  font-family: inherit;
+  font-family: 'Montserrat',  sans-serif,
+ inherit;
   font-size: 100%;
   font-style: inherit;
   font-weight: inherit;
@@ -185,7 +186,8 @@ dfn, cite, em, i { font-style: italic; }
 blockquote { padding: 0.7em; }
 
 pre, code, kbd, tt, var, samp {
-	font-family: "Courier New", Courier, monospace;
+	font-family: 'Montserrat',  sans-serif,
+ "Courier New", Courier, monospace;
 	font-size: 1em;
 }
 pre {
@@ -315,7 +317,8 @@ address {
 pre {
     background: #f5f5f5;
     color: #666;
-    font-family: monospace;
+    font-family: 'Montserrat',  sans-serif,
+ monospace;
     font-size: 14px;
     margin: 20px 0;
     overflow: auto;
@@ -329,7 +332,8 @@ pre {
 /* 3. Form fields settings
 -------------------------------------------------------------- */
 button, input, optgroup, select, textarea {
-	font-family: inherit;
+	font-family: 'Montserrat',  sans-serif,
+ inherit;
 	font-size: 14.5px;			/* Corrects font size not being inherited in all browsers */
     font-weight: 300;
 	margin: 0;					/* Addresses margins set differently in IE6/7, F3/4, S5, Chrome */
@@ -1308,7 +1312,8 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
 .sidebar_outer_menu li > ul > li.menu-item-has-children:before {
   content: '\e84b';
   display: inline-block;
-  font-family: fontello;
+  font-family: 'Montserrat',  sans-serif,
+ fontello;
   float: right;
   line-height: 38px;
   position: relative;
@@ -1394,7 +1399,8 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
 
 .menu_user_login .popup_link:before {
   content: '\e859';
-  font-family: fontello;
+  font-family: 'Montserrat',  sans-serif,
+ fontello;
   font-size: 13px;
   float: left;
 }
@@ -2068,7 +2074,8 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
 
 .menu_main_responsive li.menu-item-has-children > a:after {
   content: '\e84b';
-  font-family: 'fontello';
+  font-family: 'Montserrat',  sans-serif,
+ 'fontello';
   position: absolute;
   right: 10px;
   top: 50%;
@@ -2232,7 +2239,8 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
 
 .search_wrap.search_state_closed .search_form:after {
   content: '\e816';
-  font-family: fontello;
+  font-family: 'Montserrat',  sans-serif,
+ fontello;
   position: absolute;
   color: #fff;
   top: 0px;
@@ -2242,7 +2250,8 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
 
 .search_wrap.search_state_opened .search_form:after {
   content: '\e816';
-  font-family: fontello;
+  font-family: 'Montserrat',  sans-serif,
+ fontello;
   position: absolute;
   color: #fff;
   top: 0px;
@@ -2508,7 +2517,8 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
 
 .menu_main_wrap .search_wrap.search_state_opened .search_form:after {
   content: none;
-  font-family: fontello;
+  font-family: 'Montserrat',  sans-serif,
+ fontello;
   position: absolute;
   color: #bcc1c2;
   top: 50%;
@@ -2526,7 +2536,8 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
 
 .menu_main_wrap .search_wrap.search_state_opened .search_form .search_submit:after {
   content: '\e80a';
-  font-family: fontello;
+  font-family: 'Montserrat',  sans-serif,
+ fontello;
   position: absolute;
   color: #bcc1c2;
   top: -2px;
@@ -2571,7 +2582,8 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
 .top_panel_inner_style_6 .widget_shopping_cart .button:after ,
 .top_panel_inner_style_7 .widget_shopping_cart .button:after {
   content: '\e838';
-  font-family: fontello;
+  font-family: 'Montserrat',  sans-serif,
+ fontello;
   padding-left: 0;
   z-index: 2;
   opacity: 0;
@@ -2900,7 +2912,8 @@ body.search .content .search_wrap {
 }
 
 .tparrows.default:before {
-  font-family: "fontello";
+  font-family: 'Montserrat',  sans-serif,
+ "fontello";
   font-size: 30px;
 }
 
@@ -3129,7 +3142,8 @@ blockquote, blockquote p {
 }
 
 blockquote:before {
-  font-family: 'fontello';
+  font-family: 'Montserrat',  sans-serif,
+ 'fontello';
   content: '\e872';
   display: block;
   position: absolute;
@@ -3243,7 +3257,8 @@ body.page .post_info + .post_content {
 
 .post_item .post_readmore:after {
   content: '\e84b';
-  font-family: fontello;
+  font-family: 'Montserrat',  sans-serif,
+ fontello;
   display: inline-block;
   margin-left: 0.5em;
 }
@@ -3836,26 +3851,30 @@ body.single-post .post_featured + .post_title {
 }
 
 .pagination_wrap .pager_next:before {
-  font-family: fontello;
+  font-family: 'Montserrat',  sans-serif,
+ fontello;
   content: '\e84b';
   margin-right: 0;
 }
 
 .pagination_wrap .pager_prev:before {
-  font-family: fontello;
+  font-family: 'Montserrat',  sans-serif,
+ fontello;
   content: '\e84a';
   margin-right: 0;
 }
 
 .pagination_wrap .pager_last:before {
-  font-family: fontello;
+  font-family: 'Montserrat',  sans-serif,
+ fontello;
   content: '\e84b\e84b';
   margin-right: 0;
   letter-spacing: -7px;
 }
 
 .pagination_wrap .pager_first:before {
-  font-family: fontello;
+  font-family: 'Montserrat',  sans-serif,
+ fontello;
   content: '\e84a\e84a';
   margin-right: 0;
   letter-spacing: -7px;
@@ -4164,7 +4183,8 @@ body.single-post .post_featured + .post_title {
   height: 40px;
   line-height: 40px;
   font-size: 9px;
-  font-family: "fontello";
+  font-family: 'Montserrat',  sans-serif,
+ "fontello";
   background-color: rgba(255,255,255, 0.8);
   color: #888888;
   text-align: center;
@@ -4442,7 +4462,8 @@ body.single-post .post_featured + .post_title {
 
 .reviews_star:before {
   content: '\e8c8';
-  font-family: "fontello";
+  font-family: 'Montserrat',  sans-serif,
+ "fontello";
   font-size: inherit;
   display: inline-block;
   vertical-align: top;
@@ -4792,7 +4813,8 @@ body.single-post .post_featured + .post_title {
 
 .comments_list_wrap .comment_reply a:before {
   content: '\e85a';
-  font-family: fontello;
+  font-family: 'Montserrat',  sans-serif,
+ fontello;
   margin-right: 0.5em;
   font-size: 11px;
 }
@@ -5145,7 +5167,8 @@ body.single-post .post_featured + .post_title {
 .menu_side_responsive > li.menu-item-has-children > a:after,
 .menu_side_responsive li li.menu-item-has-children > a:after {
   content: '\e84b';
-  font-family: 'fontello';
+  font-family: 'Montserrat',  sans-serif,
+ 'fontello';
   position: absolute;
   right: 10px;
   top: 50%;
@@ -5199,7 +5222,8 @@ body.single-post .post_featured + .post_title {
 
 .widget_area ul li:before {
   content: '\e863';
-  font-family: 'fontello';
+  font-family: 'Montserrat',  sans-serif,
+ 'fontello';
   position: absolute;
   left: 1px;
   top: 0;
@@ -5264,7 +5288,8 @@ body.single-post .post_featured + .post_title {
 
 .search_form:after {
   content: '\e816';
-  font-family: fontello;
+  font-family: 'Montserrat',  sans-serif,
+ fontello;
   position: absolute;
   color: #bcc1c2;
   top: 0;
@@ -5372,7 +5397,8 @@ body.single-post .post_featured + .post_title {
 
 .widget_area .widget_calendar .month_prev a:before,
 .widget_area .widget_calendar .month_next a:before {
-  font-family: 'fontello';
+  font-family: 'Montserrat',  sans-serif,
+ 'fontello';
 }
 
 .widget_area .widget_calendar .month_prev a:before {
@@ -5497,7 +5523,8 @@ body.single-post .post_featured + .post_title {
 
 .widget_area .widget_flickr .flickr_badge_image a:after {
   content: '\e834';
-  font-family: fontello;
+  font-family: 'Montserrat',  sans-serif,
+ fontello;
   font-size: 30px;
   position: absolute;
   color: #fff;
@@ -5892,7 +5919,8 @@ footer.twitter_wrap .sc_section_overlay {
 
 .hover_icon:before ,
 .sc_image a:before {
-  font-family: 'fontello';
+  font-family: 'Montserrat',  sans-serif,
+ 'fontello';
   font-size: 50px;
   line-height: 50px;
   color: #ffffff;
@@ -6073,7 +6101,8 @@ footer.twitter_wrap .sc_section_overlay {
 }
 
 .popup_wrap .popup_close:before {
-  font-family: fontello;
+  font-family: 'Montserrat',  sans-serif,
+ fontello;
   content: '\e871';
   line-height: 1em;
   padding: 0 !important;
@@ -6252,7 +6281,8 @@ footer.twitter_wrap .sc_section_overlay {
 .tp-caption.button a:after,
 .tp-caption.buttonborder a:after {
   content: '\e838';
-  font-family: fontello;
+  font-family: 'Montserrat',  sans-serif,
+ fontello;
   padding-left: 0;
   z-index: 2;
   opacity: 0;
@@ -6309,7 +6339,8 @@ footer.twitter_wrap .sc_section_overlay {
 	font-size:20px;
 	line-height:30px;
 	font-weight:300;
-	font-family:Roboto,sans-serif;
+	font-family: 'Montserrat',  sans-serif,
+Roboto,sans-serif;
 	color:#12252d;
 	text-decoration:none;
 	background-color:transparent;
@@ -6324,7 +6355,8 @@ footer.twitter_wrap .sc_section_overlay {
 	font-size:65px;
 	line-height:75px;
 	font-weight:100;
-	font-family:Roboto,sans-serif;
+	font-family: 'Montserrat',  sans-serif,
+Roboto,sans-serif;
 	color:#12252d;
 	text-decoration:none;
 	background-color:transparent;
@@ -6339,7 +6371,8 @@ footer.twitter_wrap .sc_section_overlay {
 	font-size:12px;
 	line-height:20px;
 	font-weight:600;
-	font-family:Roboto,sans-serif;
+	font-family: 'Montserrat',  sans-serif,
+Roboto,sans-serif;
 	color:var(--secondary-dark);
 	text-decoration:none;
 	background-color:transparent;
@@ -6355,7 +6388,8 @@ footer.twitter_wrap .sc_section_overlay {
 	font-size:14px;
 	line-height:50px;
 	font-weight:500;
-	font-family:Roboto,sans-serif;
+	font-family: 'Montserrat',  sans-serif,
+Roboto,sans-serif;
 	color:rgb(255,255,255);
 	text-decoration:none;
 	padding:0px;
@@ -6413,7 +6447,8 @@ footer.twitter_wrap .sc_section_overlay {
   font-size:14px;
   line-height:46px;
   font-weight:500;
-  font-family:Roboto,sans-serif;
+  font-family: 'Montserrat',  sans-serif,
+Roboto,sans-serif;
   color:rgb(131,205,200);
   text-decoration:none;
   background-color:rgba(0,0,0,0);
@@ -6586,7 +6621,8 @@ li.product .post_content {
 
 .woocommerce ul.products li.product .button:after {
   content: '\e838';
-  font-family: fontello;
+  font-family: 'Montserrat',  sans-serif,
+ fontello;
   padding-left: 0;
   z-index: 2;
   opacity: 0;
