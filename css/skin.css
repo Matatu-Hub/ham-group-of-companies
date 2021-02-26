@@ -497,7 +497,8 @@ textarea::-webkit-input-placeholder {
 
 /* Sections */
 .grey_section{
-  background-color: #f4f8f9;
+  /* background-color: #f4f8f9; */
+  background-color: #d7dbdc;
 }
 
 .skyblue_section {
@@ -3551,7 +3552,7 @@ border-color:var(--secondary-dark)
 background-color:var(--secondary-color);
 }
 .sc_skills_counter .sc_skills_item.sc_skills_style_1{
-background-color:var(--secondary-color);
+background-color:var(--secondary-dark);
 }
 
 /* Slider */
@@ -3972,7 +3973,7 @@ color:var(--secondary-color);
   color:var(--secondary-color);
 }
 .scheme_dark .sc_item_subtitle{
-  color:var(--secondary-color);
+  color:var(--secondary-dark);
 }
 
 /* 8.5 Page 404
