@@ -5,7 +5,8 @@
 
 //Your E-mail
 
-$your_email = 'your@email.net';
+// $your_email = 'your@email.net';
+$your_email = 'info@hamenterprises.co.ug';
 
 //Default Subject if 'subject' field not specified
 $default_subject = 'From My Contact Form';
