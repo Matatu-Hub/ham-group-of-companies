@@ -2829,7 +2829,7 @@ a.bp-title-button:hover {
   background-image: url(../images/2567x1277.png);
 }
 .image_bg_6{
-  background-image: url(../images/1900x954.png);
+  background-image: url(../images/images/nastuh-abootalebi-yWwob8kwOCk-unsplash.jpg);
 }
 .image_bg_7{
   background-image: url(../images/1900x988.png);
@@ -3991,7 +3991,7 @@ color:var(--secondary-color);
   color:var(--secondary-color);
 }
 .scheme_dark .sc_item_subtitle{
-  color:var(--secondary-dark);
+  color:var(--gray-light);
 }
 
 /* 8.5 Page 404
