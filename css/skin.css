@@ -44,7 +44,8 @@
 }
 body {
   color: #8a8a8a;
-  font-family:'Roboto';
+  font-family: 'Montserrat',  sans-serif,
+ 'Montserrat',  sans-serif;
   font-size:14.5px;
   /*font-weight:300;*/
   font-weight:400;
@@ -68,42 +69,48 @@ h6 a {
 }
 
 h1{
-  font-family:'Roboto';
+  font-family: 'Montserrat',  sans-serif,
+'Roboto';
   font-size:48px;
   font-weight:300;
   line-height:58px;
   margin-bottom:10px;
 }
 h2{
-  font-family:'Roboto';
+  font-family: 'Montserrat',  sans-serif,
+'Roboto';
   font-size:45px;
   font-weight:300;
   line-height:55px;
   margin-bottom:10px;
 }
 h3{
-  font-family:'Roboto';
+  font-family: 'Montserrat',  sans-serif,
+'Roboto';
   font-size:30px;
   font-weight:300;
   line-height:40px;
   margin-bottom:10px;
 }
 h4{
-  font-family:'Roboto';
+  font-family: 'Montserrat',  sans-serif,
+'Roboto';
   font-size:23px;
   font-weight:300;
   line-height:30px;
   margin-bottom:10px;
 }
 h5{
-  font-family:'Roboto';
+  font-family: 'Montserrat',  sans-serif,
+'Roboto';
   font-size:18px;
   font-weight:700;
   line-height:27px;
   margin-bottom:10px;
 }
 h6{
-  font-family:'Roboto';
+  font-family: 'Montserrat',  sans-serif,
+'Roboto';
   font-size:12px;
   font-weight:700;
   line-height:20px;
@@ -497,7 +504,8 @@ textarea::-webkit-input-placeholder {
 
 /* Sections */
 .grey_section{
-  background-color: #f4f8f9;
+  /* background-color: #f4f8f9; */
+  background-color: #d7dbdc;
 }
 
 .skyblue_section {
@@ -1248,7 +1256,8 @@ textarea::-webkit-input-placeholder {
 }
 
 .post_info{
-  font-family:'Roboto';
+  font-family: 'Montserrat',  sans-serif,
+'Roboto';
   font-size:12.5px;
   font-weight:300;
   line-height:22px;
@@ -2207,7 +2216,8 @@ a.eg-henryharrison-element-2{
   -webkit-filter:grayscale(100%);
 }
 .myportfolio-container .added_to_cart.wc-forward{
-  font-family:"Open Sans"; 
+  font-family: 'Montserrat',  sans-serif,
+"Open Sans"; 
   font-size:13px; 
   color:#fff; 
   margin-top:10px;
@@ -2246,7 +2256,8 @@ a.eg-henryharrison-element-2{
   -webkit-border-radius:5px; 
   font-size:12px; 
   font-weight:700; 
-  font-family:"Open Sans",sans-serif; 
+  font-family: 'Montserrat',  sans-serif,
+"Open Sans",sans-serif; 
   display:inline-block; 
   background:#fff; 
   margin-bottom:5px;
@@ -2314,10 +2325,12 @@ padding:1px 3px;  color:#cbcbcb;  background:#cbcbcb;  margin-left:7px;  font-si
 .minimal-light .esg-filterbutton.selected .esg-filter-checked,.minimal-light .esg-filterbutton:hover .esg-filter-checked{
 padding:1px 3px 1px 3px;  color:#fff;  background:#000;  margin-left:7px;  font-size:9px;  font-weight:300;  line-height:9px;  vertical-align:middle}
 .eg-washington-element-3{
-font-size:18px; line-height:28px; color:#ffffff; font-weight:600; display:inline-block; float:none; clear:both; margin:15px 0px 0px 0px ; padding:5px 10px 5px 10px ; border-radius:0px 0px 0px 0px ; background-color:rgba(255,255,255,0); position:relative; z-index:2 !important; font-family:Roboto,sans-serif
+font-size:18px; line-height:28px; color:#ffffff; font-weight:600; display:inline-block; float:none; clear:both; margin:15px 0px 0px 0px ; padding:5px 10px 5px 10px ; border-radius:0px 0px 0px 0px ; background-color:rgba(255,255,255,0); position:relative; z-index:2 !important; font-family: 'Montserrat',  sans-serif,
+Roboto,sans-serif
 }
 .eg-washington-element-11{
-font-size:14px !important; line-height:28px !important; color:#747e81 !important; font-weight:300 !important; padding:0px 0px 0px 0px !important; border-radius:0px 0px 0px 0px !important; background-color:rgba(255,255,255,0) !important; z-index:2 !important; display:block; font-family:"Roboto",sans-serif !important; text-transform:lowercase !important}
+font-size:14px !important; line-height:28px !important; color:#747e81 !important; font-weight:300 !important; padding:0px 0px 0px 0px !important; border-radius:0px 0px 0px 0px !important; background-color:rgba(255,255,255,0) !important; z-index:2 !important; display:block; font-family: 'Montserrat',  sans-serif,
+"Roboto",sans-serif !important; text-transform:lowercase !important}
 .eg-washington-element-11:hover{
 font-size:14px !important; line-height:28px !important; color:var(--secondary-color) !important; font-weight:300 !important; border-radius:0px 0px 0px 0px !important; background-color:rgba(255,255,255,0) !important; text-transform:lowercase !important}
 .eg-washington-element-11-a{
@@ -3551,7 +3564,7 @@ border-color:var(--secondary-dark)
 background-color:var(--secondary-color);
 }
 .sc_skills_counter .sc_skills_item.sc_skills_style_1{
-background-color:var(--secondary-color);
+background-color:var(--secondary-dark);
 }
 
 /* Slider */
@@ -3972,7 +3985,7 @@ color:var(--secondary-color);
   color:var(--secondary-color);
 }
 .scheme_dark .sc_item_subtitle{
-  color:var(--secondary-color);
+  color:var(--secondary-dark);
 }
 
 /* 8.5 Page 404
