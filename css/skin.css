@@ -1909,7 +1909,7 @@ textarea::-webkit-input-placeholder {
 /* Contacts */
 .contacts_wrap_inner {
   color: #747e81;
-  background-color: #f4f8f9;
+  background-color: var(--primary-dark);
 }
 
 .scheme_dark .contacts_wrap_inner {
@@ -1923,7 +1923,7 @@ textarea::-webkit-input-placeholder {
 }
 
 .contacts_wrap .logo img{
-  height:30px;
+  height:50px;
 }
 
 /* Testimonials and Twitter */
