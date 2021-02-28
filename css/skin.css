@@ -1383,7 +1383,7 @@ textarea::-webkit-input-placeholder {
 .post_content.ih-item.square.effect_fade.colored:hover .info,
 .post_content.ih-item.square.effect_dir.colored .info,
 .post_content.ih-item.square.effect_shift.colored .info {
-  background: rgba(18, 37, 45, 0.9);
+  background: rgba(18, 37, 45, 0.7);
 }
 
 .isotope_item_colored .post_featured .post_mark_new,
