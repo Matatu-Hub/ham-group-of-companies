@@ -115,6 +115,13 @@ h6{
   line-height:20px;
   margin-bottom:10px;
 }
+.light-shadow{
+  text-shadow: 2px 2px 8px #fff!important;
+}
+
+.light{
+  text-shadow: 2px 2px 8px #000!important;
+}
 
 a,
 .scheme_dark a,
