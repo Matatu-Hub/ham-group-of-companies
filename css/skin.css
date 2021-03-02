@@ -117,11 +117,17 @@ h6{
 }
 .light-shadow{
   text-shadow: 4px 4px 16px #fff!important;
+  /* color: black!important; */
 }
 
 .light{
   text-shadow: 4px 4px 10px #000!important;
 }
+
+.tp-caption{
+  font-weight: 600!important;
+}
+
 
 a,
 .scheme_dark a,
