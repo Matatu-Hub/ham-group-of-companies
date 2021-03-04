@@ -765,7 +765,7 @@ button:before,
 .sc_scroll_vertical .sc_blogger .isotope_wrap,
 .sc_blogger .sc_scroll_vertical .isotope_wrap {
 	/*margin-right:0;*/
-  ;
+  
 }
 
 .sc_scroll_vertical .sc_blogger .isotope_item,
@@ -943,7 +943,7 @@ button:before,
 
 .sc_call_to_action_style_1.sc_no_image .sc_call_to_action_descr {
   color: #12252d;
-  font-size: 30px;
+  font-size: 23px;
   line-height: 44px;
   font-weight: 100;
 }
@@ -1163,8 +1163,8 @@ button:before,
   top: -4px;
   opacity: 0;
   left: 50%;
-  margin-left: -61px;
-  width: 100px;
+  margin-left: -81px;
+  width: 150px;
   height: 29px;
   -webkit-transition: all ease .3s;
   -moz-transition: all ease .3s;
@@ -1528,7 +1528,7 @@ button:before,
 -------------------------------------------------------------- */
 .sc_content {
 	/*overflow:hidden;*/
-  ;
+  
 }
 
 
@@ -2508,7 +2508,7 @@ ul.sc_list_style_iconed {
 
 .sc_section:not(.sc_scroll_controls) .sc_section_overlay,
 .sc_section .sc_section_overlay {
-/*  overflow: hidden;*/;
+/*  overflow: hidden;*/
 }
 
 .sc_section .sc_section_overlay {
